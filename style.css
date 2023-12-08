@@ -1,0 +1,28 @@
+body {
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.avatar {
+    width: 150px;
+}
+/* .border-blue {
+    border: 1px dotted blue;
+} */
+
+.card {
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    width: 400px;
+    margin: auto;
+    text-align: center;
+    background: #ddebf8;
+    color: #2b2839;
+    border-bottom: 6px solid;
+}
+
+.contactid {
+    font-size: 10px;
+    display: block;
+    font-family: Arial, Helvetica, sans-serif;
+}
